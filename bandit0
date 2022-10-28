@@ -1,0 +1,22 @@
+O objetivo deste level é para que você aprenda a usar o comando ssh.
+ssh = OpenSSH 
+
+OpenSSH é uma ferramenta de conectividade. Ela serve para você se conectar a outro computador remotamente.
+
+Veja mais em:
+
+https://www.openssh.com
+
+O uso básico do ssh é:
+
+$ssh  usuario@hostname -p numerodaporta
+
+usuario  = o nome de um usuário existente naquele computador que você vai se conectar.
+hostname = é o endereço do computador. Pode ser um ip ou um domínio.
+porta    = é o numero da porta que o serviço ssh está rodando no computador que você vi se conectar.
+
+Por exemplo:
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+Depois é só colocar a senha e você estará conectado.  

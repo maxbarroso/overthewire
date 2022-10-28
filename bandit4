@@ -1,0 +1,8 @@
+A senha para o próximo level está armazenado em um arquivo oculto.
+O arquivos ocultos no linux tem um . no inicio.
+Para listar ou exibir os arquivos ocultos em um diretório é preciso usar a opção -a
+por exemplo:
+
+$ls -a
+
+

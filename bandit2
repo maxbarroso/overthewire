@@ -1,0 +1,9 @@
+A senha para o próximo level está no arquivo - 
+Porém o caractere "-"  causa um pequeno conflito no linux pois ele é utilizado para passar uma parâmetro (ou opções) 
+Para conseguir abrir ou visualizar um arquivo que inicie com - é preciso colocar um ./ + o nome do arquivo
+Por exemplo para entrar no diretorio -dir:
+
+
+$ cd ./-dir
+
+

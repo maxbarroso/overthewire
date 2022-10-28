@@ -1,0 +1,7 @@
+O objetivo desse level é aprender a como manipular arquivos com espaços no nome.
+Pro exemplo um diretorio chamado: 'fotos do celular'
+É possível entrar no diretório utilizando a tecla tab ou colocando o nome do arquivo ou diretório dentro de aspas "fotos do celular"
+
+$cd "fotos do celular"
+
+

@@ -1,0 +1,14 @@
+A senha para o proximo level está no arquivo README.
+A proposta do level é que você aprenda os comandos mais básicos do linux:
+Listar os arquivos de um diretório e ler o conteúdo de um arquivo.
+
+Para listar ou mostrar os arquivos o comando é: ls  
+Para ler o conteúdo de um arquivo, o comando mais comum é o comando cat.
+
+$ cat nome_do_arquivo
+
+Porém existem outras maneiras de se ler o conteúdo de um arquivo.
+
+-less
+-more
+
